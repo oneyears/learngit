@@ -1,5 +1,5 @@
 Git is a version control system
-Git is free software distribute under the GPL
+Git is free soft ware distribute under the GPL
 Git has a mutable index called stage.
 Git tracks changes of files.
 MyBoss is good
